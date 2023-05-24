@@ -1,0 +1,12 @@
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\bin\Debug\net6.0\Historia.UAPI.deps.json
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\bin\Debug\net6.0\Historia.UAPI.dll
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\bin\Debug\net6.0\Historia.UAPI.pdb
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\Historia.UAPI.csproj.AssemblyReference.cache
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\Historia.UAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\Historia.UAPI.AssemblyInfoInputs.cache
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\Historia.UAPI.AssemblyInfo.cs
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\Historia.UAPI.csproj.CoreCompileInputs.cache
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\Historia.UAPI.dll
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\refint\Historia.UAPI.dll
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\Historia.UAPI.pdb
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.UAPI\obj\Debug\net6.0\ref\Historia.UAPI.dll
