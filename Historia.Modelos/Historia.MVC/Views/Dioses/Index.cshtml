@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Historia.Modelos.Dios>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreDivino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombrePopular)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Elemento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mitologia)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreDivino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombrePopular)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Elemento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mitologia.Nombre)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  Id=item.Id  }) |
+                @Html.ActionLink("Details", "Details", new {  Id=item.Id  }) |
+                @Html.ActionLink("Delete", "Delete", new {  Id=item.Id  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

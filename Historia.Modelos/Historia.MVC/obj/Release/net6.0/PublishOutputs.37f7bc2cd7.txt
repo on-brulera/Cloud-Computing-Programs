@@ -1,0 +1,7 @@
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.MVC\obj\Release\net6.0\PubTmp\Out\Historia.MVC.exe
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.MVC\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.MVC\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.MVC\obj\Release\net6.0\PubTmp\Out\Historia.MVC.dll
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.MVC\obj\Release\net6.0\PubTmp\Out\Historia.MVC.deps.json
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.MVC\obj\Release\net6.0\PubTmp\Out\Historia.MVC.runtimeconfig.json
+D:\Universidad\6 Semestre\Cloud Computing\Git\Cloud-Computing-Programs\Historia.Modelos\Historia.MVC\obj\Release\net6.0\PubTmp\Out\Historia.MVC.pdb
